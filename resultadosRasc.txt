@@ -1,0 +1,167 @@
+GRU row act
+0  Train Score: 0.24 RMSE
+0  Test Score: 0.24 RMSE
+1  Train Score: 0.23 RMSE
+1  Test Score: 0.23 RMSE
+2  Train Score: 0.46 RMSE
+2  Test Score: 0.48 RMSE
+3  Train Score: 0.24 RMSE
+3  Test Score: 0.24 RMSE
+4  Train Score: 0.51 RMSE
+4  Test Score: 0.52 RMSE
+5  Train Score: 0.23 RMSE
+5  Test Score: 0.23 RMSE
+6  Train Score: 0.23 RMSE
+6  Test Score: 0.24 RMSE
+7  Train Score: 0.24 RMSE
+7  Test Score: 0.24 RMSE
+8  Train Score: 0.22 RMSE
+8  Test Score: 0.23 RMSE
+9  Train Score: 0.23 RMSE
+9  Test Score: 0.23 RMSE
+
+LSTM row act
+0  Train Score: 0.25 RMSE
+0  Test Score: 0.26 RMSE
+1  Train Score: 0.26 RMSE
+1  Test Score: 0.27 RMSE
+2  Train Score: 0.26 RMSE
+2  Test Score: 0.26 RMSE
+3  Train Score: 0.25 RMSE
+3  Test Score: 0.26 RMSE
+4  Train Score: 0.25 RMSE
+4  Test Score: 0.26 RMSE
+5  Train Score: 0.24 RMSE
+5  Test Score: 0.25 RMSE
+6  Train Score: 0.25 RMSE
+6  Test Score: 0.26 RMSE
+7  Train Score: 0.26 RMSE
+7  Test Score: 0.26 RMSE
+8  Train Score: 0.23 RMSE
+8  Test Score: 0.24 RMSE
+9  Train Score: 0.24 RMSE
+9  Test Score: 0.25 RMSE
+
+LSTM col act
+0  Train Score: 0.22 RMSE
+0  Test Score: 0.22 RMSE
+1  Train Score: 0.22 RMSE
+1  Test Score: 0.22 RMSE
+2  Train Score: 0.22 RMSE
+2  Test Score: 0.23 RMSE
+3  Train Score: 0.22 RMSE
+3  Test Score: 0.23 RMSE
+4  Train Score: 0.23 RMSE
+4  Test Score: 0.24 RMSE
+5  Train Score: 0.22 RMSE
+5  Test Score: 0.23 RMSE
+6  Train Score: 0.23 RMSE
+6  Test Score: 0.23 RMSE
+7  Train Score: 0.22 RMSE
+7  Test Score: 0.22 RMSE
+8  Train Score: 0.22 RMSE
+8  Test Score: 0.23 RMSE
+9  Train Score: 0.22 RMSE
+9  Test Score: 0.22 RMSE
+
+GRU col act
+0  Train Score: 0.22 RMSE
+0  Test Score: 0.22 RMSE
+1  Train Score: 0.23 RMSE
+1  Test Score: 0.23 RMSE
+2  Train Score: 0.22 RMSE
+2  Test Score: 0.22 RMSE
+3  Train Score: 0.23 RMSE
+3  Test Score: 0.22 RMSE
+4  Train Score: 0.22 RMSE
+4  Test Score: 0.22 RMSE
+5  Train Score: 0.23 RMSE
+5  Test Score: 0.22 RMSE
+6  Train Score: 0.22 RMSE
+6  Test Score: 0.22 RMSE
+7  Train Score: 0.22 RMSE
+7  Test Score: 0.22 RMSE
+8  Train Score: 0.23 RMSE
+8  Test Score: 0.22 RMSE
+9  Train Score: 0.22 RMSE
+9  Test Score: 0.22 RMSE
+
+LSTM square act
+0  Train Score: 0.23 RMSE
+0  Test Score: 0.22 RMSE
+1  Train Score: 0.23 RMSE
+1  Test Score: 0.23 RMSE
+2  Train Score: 0.23 RMSE
+2  Test Score: 0.22 RMSE
+3  Train Score: 0.23 RMSE
+3  Test Score: 0.22 RMSE
+4  Train Score: 0.23 RMSE
+4  Test Score: 0.23 RMSE
+5  Train Score: 0.23 RMSE
+5  Test Score: 0.22 RMSE
+6  Train Score: 0.23 RMSE
+6  Test Score: 0.22 RMSE
+7  Train Score: 0.23 RMSE
+7  Test Score: 0.22 RMSE
+8  Train Score: 0.23 RMSE
+8  Test Score: 0.22 RMSE
+9  Train Score: 0.23 RMSE
+9  Test Score: 0.23 RMSE
+
+
+GRU square act
+0  Train Score: 0.23 RMSE
+0  Test Score: 0.21 RMSE
+1  Train Score: 0.23 RMSE
+1  Test Score: 0.22 RMSE
+2  Train Score: 0.23 RMSE
+2  Test Score: 0.21 RMSE
+3  Train Score: 0.23 RMSE
+3  Test Score: 0.22 RMSE
+4  Train Score: 0.23 RMSE
+4  Test Score: 0.21 RMSE
+5  Train Score: 0.23 RMSE
+5  Test Score: 0.21 RMSE
+6  Train Score: 0.23 RMSE
+6  Test Score: 0.21 RMSE
+7  Train Score: 0.23 RMSE
+7  Test Score: 0.22 RMSE
+8  Train Score: 0.23 RMSE
+8  Test Score: 0.22 RMSE
+9  Train Score: 0.23 RMSE
+9  Test Score: 0.22 RMSE
+
+
+
+
+
+REsultados
+
+rnn-7-7 - adanm
+batch 1 épocas 100
+Train Score: 2.98 RMSE
+Test Score: 4.53 RMSE
+
+batch 10
+Train Score: 4.40 RMSE
+Test Score: 4.97 RMSE
+
+
+batch 5
+Train Score: 3.60 RMSE
+Test Score: 4.50 RMSE
+
+
+Não normalizados:
+batch5
+rnn 7
+Train Score: 0.45 RMSE
+Test Score: 0.44 RMSE
+
+rnn-7-7 - adanm
+Train Score: 0.45 RMSE
+Test Score: 0.44 RMSE
+
+rnn-7-7 -7
+Train Score: 0.45 RMSE
+Test Score: 0.44 RMSE
